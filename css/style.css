@@ -1,1 +1,60 @@
+body{
+	background-image:url("div2.jpg");
+    background-size:cover;	
+}
+//*index and level*//
+#game{
+	text-align:center;
+	padding-top:5%;
+	font-size:300%;
+	color:red;
+}
+#header{
+	font-family:Bodoni MT Black;
+	font-size:300%;
+	text-align:center;	
+}
+.text-box{
+	border:2px solid red;
+	background-color:grey;
+	text-align:center;
+	margin-top:3%;
+	padding-top:2%;
+	opacity:0.5;
+   padding-bottom:2%;	
+}
+#game{
+	padding:2%;
+	font-family:Bodoni MT Black;
+	text-align:center;
+    color:white;
+	text-shadow:2px,2px,2px;
+}
+#rule{
+font-size: 200%;
+color:darkred;
+}
+#rule2{
+color:darkred;
+}
+#play1{
+font-size: 200%;
+color:darkred;
+}
+#play2{
+font-size: 200%;
+color:darkred;
+}
+#gameRule{
+	text-align:left;
+	color:darkred;
+}
+//* game *//
+#hold{
+font-size: 100%;
+color:darkred;
+}
+#palyers{
+	color:darkred;
+}
 
