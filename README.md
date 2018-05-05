@@ -25,4 +25,4 @@ Bootstrap_
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2016 **we camp 2018**
+Copyright (c) **we camp 2018**
